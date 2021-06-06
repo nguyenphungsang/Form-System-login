@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Form_Dang_nhap_he_thong
+namespace Form_Cap_nhap_danh_sach_diem
 {
     static class Program
     {
