@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "KUB0GH9jshphwsDgQl9rTxGB2WIPnsfYy4uPp5C1nhZ2upToB4waXjh2s8juuSzRGlb7Ibde9j9vL1OTXlY8wA==",
+  "success": true,
+  "projectFilePath": "D:\\Form Dang nhap he thong\\Form Dang nhap he thong\\Form Dang nhap he thong.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.platforms\\6.0.0-preview.1.21102.12\\microsoft.netcore.platforms.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.win32.registry\\6.0.0-preview.1.21102.12\\microsoft.win32.registry.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0-preview.1.21102.12\\microsoft.win32.systemevents.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0-preview.1.21102.12\\system.configuration.configurationmanager.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.data.oledb\\6.0.0-preview.1.21102.12\\system.data.oledb.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.data.sqlclient\\4.8.2\\system.data.sqlclient.4.8.2.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.diagnostics.performancecounter\\6.0.0-preview.1.21102.12\\system.diagnostics.performancecounter.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.drawing.common\\6.0.0-preview.1.21102.12\\system.drawing.common.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.security.accesscontrol\\6.0.0-preview.1.21102.12\\system.security.accesscontrol.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0-preview.1.21102.12\\system.security.cryptography.protecteddata.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.security.permissions\\6.0.0-preview.1.21102.12\\system.security.permissions.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.security.principal.windows\\6.0.0-preview.1.21102.12\\system.security.principal.windows.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.windows.extensions\\6.0.0-preview.1.21102.12\\system.windows.extensions.6.0.0-preview.1.21102.12.nupkg.sha512"
+  ],
+  "logs": []
+}
