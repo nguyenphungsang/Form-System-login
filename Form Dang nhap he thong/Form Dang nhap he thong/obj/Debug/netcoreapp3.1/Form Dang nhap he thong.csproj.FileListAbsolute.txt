@@ -1,0 +1,92 @@
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\obj\Debug\netcoreapp3.1\Form Dang nhap he thong.csprojAssemblyReference.cache
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\obj\Debug\netcoreapp3.1\Form_Dang_nhap_he_thong.Form1.resources
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\obj\Debug\netcoreapp3.1\Form_Dang_nhap_he_thong.Form2.resources
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\obj\Debug\netcoreapp3.1\Form Dang nhap he thong.csproj.GenerateResource.cache
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\obj\Debug\netcoreapp3.1\Form Dang nhap he thong.AssemblyInfoInputs.cache
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\obj\Debug\netcoreapp3.1\Form Dang nhap he thong.AssemblyInfo.cs
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\obj\Debug\netcoreapp3.1\Form Dang nhap he thong.csproj.CoreCompileInputs.cache
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\Form Dang nhap he thong.exe
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\Form Dang nhap he thong.deps.json
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\Form Dang nhap he thong.runtimeconfig.json
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\Form Dang nhap he thong.runtimeconfig.dev.json
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\Form Dang nhap he thong.dll
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\Form Dang nhap he thong.pdb
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\obj\Debug\netcoreapp3.1\Form Dang nhap he thong.dll
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\obj\Debug\netcoreapp3.1\Form Dang nhap he thong.pdb
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\obj\Debug\netcoreapp3.1\Form Dang nhap he thong.genruntimeconfig.cache
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\obj\Debug\netcoreapp3.1\Form Dang nhap he thong.csproj.CopyComplete
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\CMCTELECOM\source\repos\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\baitap.accdb
+D:\Form Dang nhap he thong\Form Dang nhap he thong\obj\Debug\netcoreapp3.1\Form Dang nhap he thong.dll
+D:\Form Dang nhap he thong\Form Dang nhap he thong\obj\Debug\netcoreapp3.1\Form Dang nhap he thong.pdb
+D:\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\Form Dang nhap he thong.exe
+D:\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\baitap.accdb
+D:\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\Form Dang nhap he thong.deps.json
+D:\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\Form Dang nhap he thong.runtimeconfig.json
+D:\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\Form Dang nhap he thong.runtimeconfig.dev.json
+D:\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\Form Dang nhap he thong.dll
+D:\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\Form Dang nhap he thong.pdb
+D:\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+D:\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Form Dang nhap he thong\Form Dang nhap he thong\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Form Dang nhap he thong\Form Dang nhap he thong\obj\Debug\netcoreapp3.1\Form Dang nhap he thong.csproj.AssemblyReference.cache
+D:\Form Dang nhap he thong\Form Dang nhap he thong\obj\Debug\netcoreapp3.1\Form_Dang_nhap_he_thong.Form1.resources
+D:\Form Dang nhap he thong\Form Dang nhap he thong\obj\Debug\netcoreapp3.1\Form_Dang_nhap_he_thong.Form2.resources
+D:\Form Dang nhap he thong\Form Dang nhap he thong\obj\Debug\netcoreapp3.1\Form Dang nhap he thong.csproj.GenerateResource.cache
+D:\Form Dang nhap he thong\Form Dang nhap he thong\obj\Debug\netcoreapp3.1\Form Dang nhap he thong.AssemblyInfoInputs.cache
+D:\Form Dang nhap he thong\Form Dang nhap he thong\obj\Debug\netcoreapp3.1\Form Dang nhap he thong.AssemblyInfo.cs
+D:\Form Dang nhap he thong\Form Dang nhap he thong\obj\Debug\netcoreapp3.1\Form Dang nhap he thong.csproj.CoreCompileInputs.cache
+D:\Form Dang nhap he thong\Form Dang nhap he thong\obj\Debug\netcoreapp3.1\Form Dang nhap he thong.csproj.CopyComplete
+D:\Form Dang nhap he thong\Form Dang nhap he thong\obj\Debug\netcoreapp3.1\Form Dang nhap he thong.genruntimeconfig.cache
